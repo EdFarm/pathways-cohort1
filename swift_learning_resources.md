@@ -7,7 +7,7 @@
 - [Swift Tutorials by Lesson](#tutorialsbylesson)
 - [Swift without a Mac](#swiftnomac)
 - [Swift Coding Blogs](#swiftblogs)
-- [Apple Developer Resources](#appledev")
+- [Apple Developer Resources](#appledev)
 
 
 ## <a name="ecc"></a>Apple "Everyone Can Code" Curriculum Resources
