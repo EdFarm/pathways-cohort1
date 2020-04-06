@@ -8,7 +8,7 @@
 - [Swift without a Mac](#swiftnomac)
 - [Swift Coding Blogs](#swiftblogs)
 - [Apple Developer Resources](#appledev)
-
+- [Ed Farm Pathways Videos](#edfarmvids)
 
 ## <a name="ecc"></a>Apple "Everyone Can Code" Curriculum Resources
 
@@ -141,3 +141,7 @@ These guidelines describe the principles for designing elegant, consistent user 
 
 - [WWDC Videos](https://developer.apple.com/videos/) 
 Videos from WWDC sessions cover all aspects of Apple software development.
+
+## <a name="edfarmvids"></a> Ed Farm Pathways Videos
+- [Ed Farm Pathways Videos](https://vimeo.com/channels/1548670)
+Vimeo channel for Pathways videos (password protected)
