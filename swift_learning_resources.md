@@ -64,7 +64,7 @@ _Collections (Lesson 2.5)_
 - [Code with Chris: Swift Tutorial for Beginners: Arrays](https://www.youtube.com/watch?v=rNyTxjGSp8Q&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&index=18&t=0s)
 - [Code with Chris: Swift Tutorial for Beginners: Dictionaries](https://www.youtube.com/watch?v=mJwmGpdZQAg&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&index=18)
 
-_Loops (Lesson 2.6_
+_Loops (Lesson 2.6)_
 - [Code with Chris: Swift Tutorial for Beginners: Loops - Part 1](https://youtu.be/KV7Ts9sm850)
 - [Code with Chris: Swift Tutorial for Beginners: Loops - Part 2](https://youtu.be/36ipzqIQKIk)
 - [Hacking with Swift: Loops](https://www.hackingwithswift.com/100/4)
@@ -94,11 +94,16 @@ _Guard (Lesson 3.3)_
 - [Hacking with Swift: Unwrapping with Guard](https://www.hackingwithswift.com/sixty/10/3/unwrapping-with-guard)
 
 _Enumerations (Lesson 3.5)_
-- [Coding with Chris: Article: Enumerations](https://codewithchris.com/swift-enum/)
+- [Code with Chris: Article: Enumerations](https://codewithchris.com/swift-enum/)
 - [Hacking with Swift: Enumerations](https://www.hackingwithswift.com/sixty/2/8/enumerations)
 
 _Protocols (Lesson 4.1)_
 - [Learn App Making: Protocols](https://learnappmaking.com/protocols-swift-how-to/)
+
+_Table Views (Lesson 4.5)_
+- [Code with Chris: How To Connect a UITableView](https://youtu.be/tKQJN_jc5AY)
+- [Code with Chris: How To Set the Delegate & Data Source of a UITableView](https://youtu.be/hw9RrXvxuUc)
+- [Code with Chris: How To Display Data in a UITableView](https://youtu.be/tKQJN_jc5AY)
 
 _Model View Controller (Lesson 4.3)_
 - [Learn App Making: MVC](https://learnappmaking.com/model-view-controller-mvc-swift/)
